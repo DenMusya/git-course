@@ -5,4 +5,4 @@ int main() {
   int b = a * 3;
   std::cout << b - a << std::endl;
   return 0; 
-}
+}//common DENNIS L
